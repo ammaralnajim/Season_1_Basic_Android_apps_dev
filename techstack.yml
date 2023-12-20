@@ -1,0 +1,30 @@
+repo_name: ammaralnajim/Season_1_Basic_Android_apps_dev
+report_id: 37438483e7d53fb05186916b82bc93bb
+version: 0.1
+repo_type: Public
+timestamp: '2023-12-20T18:35:50+00:00'
+requested_by: wesamnabeel99
+provider: github
+branch: master
+detected_tools_count: 2
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: LangChain
+  description: Build AI apps with LLMs through composability
+  website_url: https://github.com/hwchase17/langchain
+  open_source: true
+  hosted_saas: false
+  category: Communications
+  sub_category: Large Language Model Tools
+  image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source: projects/note.txt
+  last_updated_by: Wesam Nabeel
+  last_updated_on: 2021-04-10 08:21:37.000000000 Z
